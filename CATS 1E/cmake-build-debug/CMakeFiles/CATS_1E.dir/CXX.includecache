@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/NUTA/CLionProjects/CATS 1E/num.cpp
+num.h
+C:/Users/NUTA/CLionProjects/CATS 1E/num.h
+iostream
+-
+
+C:/Users/NUTA/CLionProjects/CATS 1E/num.h
+iostream
+-
+
