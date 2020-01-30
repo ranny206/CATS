@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/NUTA/CLionProjects/CATS 3D/main.cpp
+iostream
+-
+unordered_set
+-
+unordered_map
+-
+vector
+-
+queue
+-
+map
+-
+memory
+-
+
