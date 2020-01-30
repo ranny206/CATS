@@ -1,0 +1,3 @@
+C:/Users/NUTA/CLionProjects/CATS 1D/cmake-build-debug/CMakeFiles/CATS_1D.dir
+C:/Users/NUTA/CLionProjects/CATS 1D/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/NUTA/CLionProjects/CATS 1D/cmake-build-debug/CMakeFiles/rebuild_cache.dir
