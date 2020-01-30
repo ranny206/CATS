@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/NUTA/CLionProjects/CATS 3B/find.h
+
+C:/Users/NUTA/CLionProjects/CATS 3B/main.cpp
+algorithm
+-
+cmath
+-
+cstdio
+-
+cstdlib
+-
+cassert
+-
+functional
+-
+iostream
+-
+map
+-
+queue
+-
+set
+-
+sstream
+-
+stack
+-
+string
+-
+vector
+-
+list
+-
+find.h
+C:/Users/NUTA/CLionProjects/CATS 3B/find.h
+
