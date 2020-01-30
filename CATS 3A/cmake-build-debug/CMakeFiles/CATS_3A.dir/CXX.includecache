@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/NUTA/CLionProjects/CATS 3A/main.cpp
+cassert
+-
+algorithm
+-
+cstring
+-
+deque
+-
+iostream
+-
+iterator
+-
+map
+-
+memory
+-
+queue
+-
+sstream
+-
+string
+-
+vector
+-
+
