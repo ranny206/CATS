@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/NUTA/CLionProjects/CATS_4A/main.cpp
+fstream
+-
+chrono
+-
+functional
+-
+vector
+-
+thread
+-
+iostream
+-
+
